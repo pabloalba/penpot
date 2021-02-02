@@ -7,7 +7,7 @@ The simplest approach is using docker and docker-compose.
 
 ## Install Docker ##
 
-Skip this section if you alreasdy have docker installed, up and running.
+Skip this section if you already have docker installed, up and running.
 
 You can install docker and its dependencies from your distribution
 repositores with:
